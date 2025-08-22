@@ -1,16 +1,31 @@
-## Hi there 👋
+# Hi, I'm Pasindi 👩‍💻  
 
-<!--
-**Pasindi0814/Pasindi0814** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Undergraduate Student | 💡 Tech Enthusiast | 🌱 Lifelong Learner  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 About Me  
+- 🔭 Currently working on **capstone projects & web applications**  
+- 🌱 Exploring **Data Science, AI, and Machine Learning**  
+- 💬 Passionate about **Python, Web Development, and Problem Solving**  
+- 👯 Open to collaborate on **innovative & impactful projects**  
+- 📫 Reach me via **[LinkedIn](https://www.linkedin.com/in/samudika-pasindi-05b680316/)** or **[Email](pasindi14@gmail.com)**  
+
+---
+
+## 🛠️ Tech Stack  
+- **Languages:** Python 🐍 | Java ☕ | JavaScript ⚡ | C 💻  
+- **Web Development:** HTML5 | CSS3 | Django | PHP  
+- **Databases:** MySQL | SQLite  
+- **Tools:** Git | VS Code | XAMPP  
+
+---
+
+## 📊 GitHub Stats  
+![Pasindi's GitHub stats](https://github-readme-stats.vercel.app/api?username=Pasindi0814&show_icons=true&theme=tokyonight)  
+  
+
+---
+
+✨ *"Code, Learn, and Grow – one commit at a time!"* ✨  
+
